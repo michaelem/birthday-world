@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"staircase.json"
+                 "value":"staircase.json#startYard"
                 }],
          "type":"tilelayer",
          "visible":true,
